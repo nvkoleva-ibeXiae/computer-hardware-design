@@ -12,3 +12,5 @@ Repository includes material from Fall 2019, in the form of lab reports.
 💾 Lab Report 4 is an introduction to I/O interfacing. The objective is to design an interface that allows effective communication between a peripheral UART and a RAM circuit that stores 16 characters. The interface is fully built, tested, and debugged throughout the lab.
 
 💾 Lastly, Lab Report 5 is a continuation of Lab Report 4 with the same objective. Instead of using a UART and RAM chips on a breadbord, however, the circuit implementation is built in Quartus II, connected to an optoisolator on a board, and connects through an FPGA to transmit and receive 16 characters.
+
+Please do not plagiarize or use material without asking.
